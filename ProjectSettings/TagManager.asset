@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OnlineHandler
+  - card
+  - CardHandler
+  - EncryptionHandler
+  - ParamHolder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2302733435
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Cards
+    uniqueID: 3209217615
+    locked: 0
+  - name: Cards_Important
+    uniqueID: 3912345537
+    locked: 0
+  - name: Cards_Weapons
+    uniqueID: 3931940657
+    locked: 0
+  - name: Foreground
+    uniqueID: 3678231397
+    locked: 0
+  - name: Particles
+    uniqueID: 2399767843
+    locked: 0

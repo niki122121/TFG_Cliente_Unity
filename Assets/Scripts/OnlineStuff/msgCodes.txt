@@ -1,0 +1,16 @@
+//  WebRTC message codes:
+//
+//  0-999 => Internal Game Methods. 
+//  1000-1999 => Encryption Stuff.
+//  2000-2999 => Game Stuff (ex: summon card).
+//
+// The ending of a encryption message (they are always divided in chunks or subdivisions) will always have + 1 the action number 
+// of the message itself.
+// 
+// 
+// random seeds get generated for every section of a game by adding n to gameCount:
+// Scramblers, n = 0
+// Prep Matrix first request, n = 1000000
+// Prep Matrix second request, n = 2000000
+// Prep Matrix third request, n = 3000000
+// ...
